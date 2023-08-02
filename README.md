@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Aniruddha-Sharma-1405
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Machine Learning, Web Development and App Development Projects
 - 🧠 I'm working on Neural Networks and Deep Learning Projects as well
 - 📫 How to reach me, email: aniruddha.sharma.official@gmail.com
